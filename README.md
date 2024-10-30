@@ -8,7 +8,7 @@
 ![wordpasswordgen](https://github.com/user-attachments/assets/90ef5e7e-f2c9-453f-b70f-ae895aa09a19)
 
 
-## ボタン説明
+## パターン(ボタン)説明
 
 | ボタン | 意味 | 例 |
 |---|---|---|
